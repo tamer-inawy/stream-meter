@@ -1,5 +1,5 @@
 {
-  "name": "stream-meter",
+  "name": "@inawy/stream-meter",
   "version": "1.0.0",
   "description": "A utility to monitor the stream progress.",
   "main": "./dist/index.js",
@@ -13,12 +13,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "Utility",
-    "Stream",
-    "Progress",
-    "Monitor",
+    "utility",
+    "stream",
+    "progress",
+    "bar",
+    "progressbar",
+    "monitor",
     "percentage",
-    "Measurement"
+    "measurement",
+    "loading",
+    "loader",
+    "indicator"
   ],
   "author": "Tamer Inawy <tamer.inawy@gmail.com>",
   "license": "ISC",

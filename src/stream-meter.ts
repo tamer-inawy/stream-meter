@@ -21,7 +21,7 @@ export function getStreamMeter(
   watch.once('finish', () => {
     if (showBar) drawBar(100, true);
 
-    progress.removeAllListeners();
+    progress.emit('data', 100);
   });
 
 
