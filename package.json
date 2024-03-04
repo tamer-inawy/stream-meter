@@ -1,6 +1,6 @@
 {
   "name": "@inawy/stream-meter",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A utility to monitor the stream progress.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -26,6 +26,10 @@
     "indicator"
   ],
   "author": "Tamer Inawy <tamer.inawy@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamer-inawy/stream-meter.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.11.24",
