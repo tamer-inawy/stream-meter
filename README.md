@@ -12,7 +12,7 @@ npm i --save @inawy/stream-meter
 
 ```ts
 /**
- * An example to demonistrate the strea-meter usage!
+ * An example to demonstrate the stream-meter usage!
  */
 import fs from 'fs';
 import { createGzip } from 'zlib';
